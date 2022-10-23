@@ -296,11 +296,11 @@ button {
 
     .Student_login {
         height: 280px;
-        width: 300px;
+        width: 340px;
 
     }
     .input1{
-        width: 120px;
+        width: 140px;
     }
 
     .Student_login h3 {
@@ -310,10 +310,12 @@ button {
     .Student_login h4{
         font-size: 12px;
     }
+
     input{
         padding: 2px 0px;
         margin: 7px;
         font-size: small;
+        border-radius: 4px;
 
 
     }
